@@ -1,7 +1,7 @@
 # Audio-Book
 
 ## Aim
-Apply Text to Speech conversion and perform Extraction of Text from PDF files in the creation of an audiobook from a PDF file
+To perform extraction of text from PDF files and apply text-to-speech conversion in the creation of an audiobook from a PDF file
 
 ## Steps
 1. Extract text from PDF file
